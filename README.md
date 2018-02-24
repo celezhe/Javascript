@@ -7,6 +7,10 @@ About the usage of Javascript
 |Author|Ruizhe Huang|
 |---|---
 |E-mail|celezhe@umich.edu
+
+## Print
+console.log()
+
 ## Operator
 
 ###
@@ -25,3 +29,18 @@ If it's not falsy, then it's truthy
 * number 0
 * empty string ""
 * odd value NAN meaning not a number
+
+## Tenary Operator
+### Example
+var color = isGoing ? "green" : "red";
+
+## Switch
+### Example
+###
+switch(option){
+###
+   case1:
+###
+   case2:
+###
+}
