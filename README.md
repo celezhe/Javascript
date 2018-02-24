@@ -1,23 +1,27 @@
 README
 ===========================
-About the special usage of Javascript
+About the usage of Javascript
 
 ****
 	
 |Author|Ruizhe Huang|
 |---|---
 |E-mail|celezhe@umich.edu
+## Operator
 
+###
+== means checking the equality through implicit conversion
+###
+=== means checking the equality of both type and data
 
-****
-    == 
-    ====
-## 目录
-* [横线](#横线)
-* [标题](#标题)
-* [文本](#)
-# Javascript
-* [ ](#横线)
-===========================
-== implicit conversion
-=== strictly equal(should be match both in 
+## Truthy and Falsy
+### Truthy
+If it's not falsy, then it's truthy
+### Falsy
+
+* Boolean value false
+* null type
+* undefined type
+* number 0
+* empty string ""
+* odd value NAN meaning not a number
