@@ -39,8 +39,10 @@ var color = isGoing ? "green" : "red";
 ###
 switch(option){
 ###
-   case1:
+    case1:
 ###
-   case2:
+    case2:
 ###
 }
+###
+Similar to what we did in C++
