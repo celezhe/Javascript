@@ -46,3 +46,9 @@ switch(option){
 }
 ###
 Similar to what we did in C++
+
+
+## Function
+### Example
+function reversestring(stri) {
+}
