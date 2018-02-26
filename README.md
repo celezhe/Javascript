@@ -52,3 +52,6 @@ Similar to what we did in C++
 ### Example
 function reversestring(stri) {
 }
+
+###
+Note: Parameters are variables that are used to store the data that's passed into a function for the function to use. Arguments are the actual data that's passed into a function when it is invoked:
