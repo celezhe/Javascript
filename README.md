@@ -54,4 +54,7 @@ function reversestring(stri) {
 }
 
 ###
-Note: **parameters** are variables that are used to store the data that's passed into a function for the function to use. **Arguments** are the actual data that's passed into a function when it is invoked:
+Note: **parameters** are variables that are used to store the data that's passed into a function for the function to use. **Arguments** are the actual data that's passed into a function when it is invoked.
+
+## Global Scope and Function Scope
+Global variable is outside all the function.
