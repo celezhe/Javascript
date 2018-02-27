@@ -60,4 +60,7 @@ Note: **parameters** are variables that are used to store the data that's passed
 Global variable is outside all the function.
 
 ## Hoisting
+###
 Before the program is executed, all functions are hoisted to the top of their current scope.
+###
+The variable declarations is also going to be hoisted at the top of its scope.
